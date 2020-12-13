@@ -5,9 +5,7 @@
 	
 .section .text
 foo:
-mov ebp, esp
     #write your code here
     mov ebx,4
     mov eax, ebx
-    #xor eax, eax
     ret
